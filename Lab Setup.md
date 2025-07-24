@@ -103,8 +103,41 @@ No Domain name required yet.
 # Software selection
 <img width="399" height="316" alt="Screenshot 2025-07-19 045718" src="https://github.com/user-attachments/assets/ce7b1a37-2f9f-4150-bcf8-87ad72b6d327" />
 
+# Install the GRUB boot loader
+<img width="400" height="317" alt="Screenshot 2025-07-19 053231" src="https://github.com/user-attachments/assets/80a15293-57af-4ddf-ba1a-f6c8dd816dcf" />
+<img width="401" height="316" alt="Screenshot 2025-07-19 053326" src="https://github.com/user-attachments/assets/ed1382d7-211e-45c2-b92f-6b39314ff98e" />
 
 
+# Finish the installation 
+<img width="396" height="316" alt="Screenshot 2025-07-19 053814" src="https://github.com/user-attachments/assets/839298bc-b989-4f55-9941-7bfefbba5fd9" />
+
+
+# Configure the Network
+<img width="527" height="532" alt="Screenshot 2025-07-19 054504" src="https://github.com/user-attachments/assets/4591b1b0-32da-4831-94e9-412d9f6840e2" />
+<img width="569" height="350" alt="Screenshot 2025-07-19 055228" src="https://github.com/user-attachme![Uploading Screenshot 2025-07-19 060631.png…]()
+nts/assets/7f645771-7ace-48d1-aead-1ce3f443facf" />
+
+
+
+### Installation of Windows 10 into VirtualBox
+<img width="199" height="47" alt="Screenshot 2025-07-19 042623" src="https://github.com/user-attachments/assets/e688f569-7350-452e-87e7-01737171fcb6" />
+<img width="565" height="235" alt="Screenshot 2025-07-19 061137" src="https://github.com/user-attachments/assets/28796a4a-e1d7-4349-b90f-ee060fbcdc61" />
+<img width="593" height="230" alt="Screenshot 2025-07-19 061545" src="https://github.com/user-attachments/assets/27e420af-abac-4d36-9644-f0466a58a731" />
+
+
+## Finish
+<img width="566" height="434" alt="Screenshot 2025-07-19 061645" src="https://github.com/user-attachments/assets/4ad6df6d-ca5d-4668-92be-8b44e1bd0688" />
+
+## Windows setup Installing
+<img width="509" height="394" alt="Screenshot 2025-07-19 063244" src="https://github.com/user-attachments/assets/173bde5b-e6e1-4165-bb9c-45a510eb9497" />
+
+
+## Configure network for Windows 10
+<img width="767" height="383" alt="Screenshot 2025-07-19 074507" src="https://github.com/user-attachments/assets/40d6f2d2-c7a2-41bd-90ea-43cdcd3f0b37" />
+
+
+## Run Windows 10 on Vbox
+<img width="628" height="182" alt="Screenshot 2025-07-19 080841" src="https://github.com/user-attachments/assets/a05dddea-0a9a-4fc8-b510-4a359dc09e44" />
 
 
 
